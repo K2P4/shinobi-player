@@ -4,7 +4,7 @@ export const songs: Song[] = [
   {
     id: 1,
     title: "Hero's Come Back!!",
-    artist: "nobodyknows+",
+    artist: "nobodyknows",
     audioSrc: "/audio/Op1.mp3",
     coverImg: "/images/Op1.jpg"
   },
@@ -66,7 +66,7 @@ export const songs: Song[] = [
   },
   {
     id: 10,
-    title: "newsong",
+    title: "Newsong",
     artist: "tacica",
     audioSrc: "/audio/Op10.mp3",
     coverImg: "/images/Op10.jpg"

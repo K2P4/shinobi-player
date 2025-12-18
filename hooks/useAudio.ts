@@ -1,7 +1,7 @@
 'use client';
 
 import { useContext } from 'react';
-import { AudioContext } from '@/components/AudioProvider';
+import { AudioContext } from '@/provider/AudioProvider';
 
 export const useAudio = () => {
   const context = useContext(AudioContext);
